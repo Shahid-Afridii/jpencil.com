@@ -4,7 +4,7 @@ import { useInView } from "react-intersection-observer";
 import { useEffect } from "react";
 import { FaCheckCircle } from "react-icons/fa";
 
-const Store = () => {
+const StoreSection = () => {
   // Controls for animations
   const controls = useAnimation();
 
@@ -134,4 +134,4 @@ const Store = () => {
   );
 };
 
-export default Store;
+export default StoreSection;

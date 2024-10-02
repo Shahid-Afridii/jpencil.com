@@ -3,7 +3,7 @@ import DemoSection from "@/components/DemoSection";
 import DropshipSection from "@/components/DropshipSection";
 import GoldPlanSection from "@/components/GoldPlanSection";
 import OwnProducts from "@/components/OwnProducts";
-import Store from "@/components/store";
+import Store from "@/components/StoreSection";
 import Image from "next/image";
 import { FaCheckCircle } from 'react-icons/fa'; 
 export default function Home() {
