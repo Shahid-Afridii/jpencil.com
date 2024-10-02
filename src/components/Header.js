@@ -94,7 +94,7 @@ const Header = () => {
         </motion.div>
       </div>
 
-      {/* Mobile and Tablet Menu Semi-modal */}
+      {/* Mobile and Tablet Menu Semi-modalscle */}
       {isMobileMenuOpen && (
         <motion.div
           className="fixed top-0 text-[#1B1464] right-0 w-3/4 h-full bg-[#1E1F30] z-50 p-6 lg:hidden"  
