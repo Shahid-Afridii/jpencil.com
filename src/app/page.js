@@ -26,13 +26,13 @@ export default function Home() {
     
       
 
-  
+  <div className="container mx-auto p-3">
   <DropshipSection/>
 
 
-    <OwnProducts/>
+<OwnProducts/>
 
-     
+ 
 
 <Store/>
 
@@ -42,6 +42,8 @@ export default function Home() {
 <ClientsSection/>
 
 <DemoSection/>
+  </div>
+ 
 
 
     </div>
